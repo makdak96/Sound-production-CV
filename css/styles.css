@@ -49,3 +49,8 @@
 .profphoto {
     height: 450px;
 }
+
+.marg-bott {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
